@@ -19,6 +19,7 @@
     "fs-extra": "^8.1.0",
     "minimist": "^1.2.5",
     "ora": "^4.0.4",
+    "follow-redirects": "^1.10.0",
     "request-promise": "^4.2.5"
   }
 }
